@@ -4,7 +4,7 @@
 #define random(x) (rand()%x)
 #define damage(x) target->EnemyBlock -= int((x + Strength) * WeakCoefficient * target->Vulnerable)
 
-Cards::Cards(void)
+Cards::Cards(void)//5555
 {
 }
 
