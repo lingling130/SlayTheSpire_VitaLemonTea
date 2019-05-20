@@ -1,0 +1,435 @@
+1:Bash
+（Energy：2）Deal 8(10) damage. Apply 2(3) Vulnerable.
+
+2:Defend
+（Energy：1）Gain 5(8) Block.
+
+3:Strike
+（Energy：1）Deal 6(9) damage.
+
+4:Anger
+（Energy：0）Deal 6(8) damage. Add a copy of this card to your discard pile.
+
+5:Armaments
+（Energy：1）Gain 5 Block. Upgrade a(ALL) card(s) in your hand for the rest of combat.
+
+6:Body Slam
+（Energy：1(0)）Deal damage equal to your current Block.
+
+7:Clash
+（Energy：0）Can only be played if every card in your hand is an Attack. Deal 14(18) damage.
+
+8:Cleave
+（Energy：1）Deal 8(11) damage to ALL enemies.
+
+9:Clothesline
+（Energy：2）Deal 12(14) damage. Apply 2(3) Weak.
+
+10:Flex
+（Energy：0）Gain 2(4) Strength. At the end of your turn, lose 2(4) Strength.
+
+11:Havoc
+（Energy：1(0)）Play the top card of your draw pile and Exhaust it.
+
+12:Headbutt
+（Energy：1）Deal 9(12) damage. Place a card from your discard pile on top of your draw pile.
+
+13:Heavy Blade
+（Energy：2）Deal 14 damage. Strength affects Heavy Blade 3(5) times.
+
+14:Iron Wave
+（Energy：1）Gain 5(7) Block. Deal 5(7) damage.
+
+15:Perfected Strike
+（Energy：2）Deal 6 damage. Deals an additional 2(3) damage for ALL of your cards containing "Strike".
+
+16:Pommel Strike
+（Energy：1）Deal 9(10) damage. Draw 1(2) card(s).
+
+17:Shrug it Off
+（Energy：1）Gain 8(11) Block. Draw 1 card.
+
+18:Sword Boomerang
+（Energy：1）Deal 3 damage to a random enemy 3(4) times.
+
+19:Thunderclap
+（Energy：1）Deal 4(7) damage and apply 1 Vulnerable to ALL enemies.
+
+20:True Grit
+（Energy：1）Gain 7(9) Block. Exhaust a random(not random) card from your hand.
+
+21:Twin Strike
+（Energy：1）Deal 5(7) damage twice.
+
+22:Warcry
+（Energy：0）Draw 1(2) card(s). Place a card from your hand on top of your draw pile. Exhaust.
+
+23:Wild Strike
+（Energy：1）Deal 12(17) damage. Shuffle a Wound into your draw pile.
+
+24:Battle Trance
+（Energy：0）Draw 3(4) cards. You cannot draw additional cards this turn.
+
+25:Blood for Blood
+（Energy：4(3)）Cost 1 less energy for each time you lose HP in combat. Deal 18(22) damage.
+
+26:Bloodletting
+（Energy：0）Lose 3 HP. Gain 1(2) Energy.
+
+27:Burning Pact
+（Energy：1）Exhaust 1 card. Draw 2(3) cards.
+
+28:Carnage
+（Energy：2）Ethereal. Deal 20(28) damage.
+
+29:Combust
+（Energy：1）At the end of your turn, lose 1 HP and deal 5(7) damage to ALL enemies.
+
+30:Corruption
+（Energy：3(2)）Skills cost 0. Whenever you play a Skill, Exhaust it.
+
+31:Disarm
+（Energy：1）Enemy loses 2(3) Strength. Exhaust.
+
+32:Dropkick
+（Energy：1）Deal 5(8) damage. If the enemy is Vulnerable, gain 1 energy and draw 1 card.
+
+33:Dual Wield
+（Energy：1）Create a(2) copy(s) of an Attack or Power card in your hand.
+
+34:Entrench
+（Energy：2(1)）Double your current Block.
+
+35:Evolve
+（Energy：1）Whenever you draw a Status, draw 1(2) card(s).
+
+36:Feel No Pain
+（Energy：1）Whenever a card is Exhausted, gain 3(4) Block.
+
+37:Fire Breathing
+（Energy：1(0)）At the end of your turn, for each Attack played this turn deal 1 damage to ALL enemies.
+
+38:Flame Barrier
+（Energy：2）Gain 12(16) Block. Whenever you are attacked this turn, deal 4(6) damage to the attacker.
+
+39:Ghostly Armor
+（Energy：1）Ethereal.
+Gain 10(13) Block.
+
+
+40:Hemokinesis
+（Energy：1）Lose 3(2) HP. Deal 14(18) damage.
+
+41:Infernal Blade
+（Energy：1(0)）Add a random Attack to your hand. It costs 0 this turn. Exhaust.
+
+42:Inflame
+（Energy：1）Gain 2(3) Strength.
+
+43:Intimidate
+（Energy：0）Apply 1(2) Weak to ALL enemies. Exhaust.
+
+44:Metallicize
+（Energy：1）At the end of your turn, gain 3(4) Block.
+
+45:Power Through
+（Energy：1）Add 2 Wounds to your hand. Gain 15(20) Block.
+
+46:Pummel
+（Energy：1）Deal 2 damage 4(5) times. Exhaust.
+
+47:Rage
+（Energy：0）Whenever you play an Attack this turn, gain 3(5) Block
+
+48:Rampage
+（Energy：1）Deal 8 damage. Every time this card is played, increase its damage by 5(8) for this combat.
+
+49:Reckless Charge
+（Energy：0）Deal 7(10) damage. Shuffle a Dazed into your draw pile
+
+50:Rupture
+（Energy：1(0)）Whenever you lose HP from a card, gain 1 Strength.
+
+51:Searing Blow
+（Energy：2）Deal 12(16) damage. Can be upgraded any number of times.
+
+52:Second Wind
+（Energy：1）Exhaust all non-Attack cards in your hand and gain 5(7) Block for each.
+
+53:Seeing Red
+（Energy：1(0)）Gain 2 energy. Exhaust.
+
+54:Sentinel
+（Energy：1）Gain 5(8) Block. If this card is Exhausted, gain 2(3) energy.
+
+55:Sever Soul
+（Energy：2）Exhaust all non-Attack cards in your hand. Deal 16(20) damage.
+
+56:Shockwave
+（Energy：2）Apply 3(5) Weak and Vulnerable to ALL enemies.
+Exhaust.
+
+57:Spot Weakness
+（Energy：1）If an enemy intends to attack, gain 3(4) Strength.
+
+58:Uppercut
+（Energy：2）Deal 13 damage. Apply 1(2) Weak. Apply 1(2) Vulnerable.
+
+59:Whirlwind
+（Energy：X）Deal 5(8) damage to ALL enemies X times.
+
+60:Barricade
+（Energy：3(2)）Block no longer expires at the start of your turn.
+
+61:Berserk
+（Energy：0）Gain 3(2) Vulnerable. Gain 1 Energy at the start of your turn.
+
+62:Bludgeon
+（Energy：3）Deal 32(42) damage.
+
+63:Brutality
+（Energy：0）(Innate.) At the start of your turn, lose 1 HP and draw 1 card.
+
+64:Dark Embrace
+（Energy：2(1)）Whenever a card is Exhausted, draw 1 card.
+
+65:Demon Form
+（Energy：3）At the start of each turn, gain 2(3) Strength.
+
+66:Double Tap
+（Energy：1）This turn, your next (2) Attack(s) is(are) played twice.
+
+67:Exhume
+（Energy：1(0)）Place a card from your Exhaust pile into your hand. Exhaust.
+
+68:Feed
+（Energy：1）Deal 10(12) damage. If this kills a non-minion enemy, gain 3(4) permanent Max HP. Exhaust.
+
+69:Fiend Fire
+（Energy：2）Exhaust your hand. Deal 7(10) damage for each Exhausted card. Exhaust.
+
+70:Immolate
+（Energy：2）Deal 21(28) damage to ALL enemies. Add a Burn to your discard pile.
+
+71:Impervious
+（Energy：2）Gain 30(40) Block. Exhaust.
+
+72:Juggernaut
+（Energy：2）Whenever you gain Block, deal 5(7) damage to a random enemy.
+
+73:Limit Break
+（Energy：1）Double your Strength. Exhaust(Don't Exhaust).
+
+74:Offering
+（Energy：0）Lose 6 HP. Gain 2 energy. Draw 3(5) cards. Exhaust.
+
+75:Reaper
+（Energy：2）Deal 4(5) damage to ALL enemies. Heal for unblocked damage dealt. Exhaust.
+
+76:Apparition
+（费用1）Gain 1 Intangible. Exhaust. Ethereal. (no longer ethereal)
+(Obtained from event: Council of Ghosts).
+
+
+77:Bite
+（费用1）Deal 7(8) damage. Heal 2(3) HP.
+(Obtained from event: Vampires(?)).
+
+
+78:J.A.X.
+（费用0）Lose 3 HP.
+Gain 2(3) Strength.
+(Obtained from event: Augmenter).
+
+
+79:Ritual Dagger
+（费用1）Deal 15 damage. If this kills an enemy then permanently increase this card's damage by 3(5)
+(Obtained during event: The Nest)
+
+
+80:Shiv
+（费用0）Deal 4(6) damage. Exhaust.
+(Obtained from the effects of various cards.)
+
+
+81:Bandage Up
+（费用0）Heal 4(6) HP.
+Exhaust.
+
+
+82:Blind
+（费用0）Apply 2 Weak (to ALL enemies).
+
+83:Dark Shackles
+（费用0）Enemy loses 9(15) Strength for the rest of this turn.
+Exhaust.
+
+
+84:Deep Breath
+（费用0）Shuffle your discard pile into your draw pile.
+Draw 1(2) card(s).
+
+
+85:Discovery
+（费用1）Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. Exhaust. (Don't Exhaust.)
+
+86:Dramatic Entrance
+（费用0）Innate.
+Deal 6(8) damage to ALL enemies.
+Exhaust.
+
+
+87:Enlightenment
+（费用0）Reduce the cost of cards in your hand to 1 this turn(combat).
+
+88:Finesse
+（费用0）Gain 2(4) Block.
+Draw 1 card.
+
+
+89:Flash of Steel
+（费用0）Deal 3(6) damage.
+Draw 1 card.
+
+
+90:Forethought
+（费用0）Place a card(any number of cards) from your hand on the bottom of your draw pile. It (They) costs 0 until played.
+
+91:Good Instincts
+（费用0）Gain 5(8) Block.
+
+92:Impatience
+（费用0）If you have no Attack cards in your hand, draw 2(3) cards.
+
+93:Jack Of All Trades
+（费用0）Add 1(2) random Colorless card(s) to your hand.
+Exhaust.
+
+
+94:Madness
+（费用1(0)）A random card in your hand costs 0 for the rest of combat. Exhaust.
+
+95:Mind Blast
+（费用2(1)）Innate.
+Deal damage equal to the number of cards in your draw pile.
+
+
+96:Panacea
+（费用0）Gain 1(2) Artifact.
+Exhaust.
+
+
+97:Panic Button
+（费用0）Gain 30(40) Block. You cannot gain Block from cards for the next 2 turns. Exhaust.
+
+98:Purity
+（费用0）Choose and exhaust 3(5) cards in your hand. Exhaust.
+
+99:Swift Strike
+（费用0）Deal 6(9) damage.
+
+100:Trip
+（费用0）Apply 2 Vulnerable (to ALL enemies).
+
+101:Apotheosis
+（费用2(1)）Upgrade ALL of your cards for the rest of combat. Exhaust.
+
+102:Chrysalis
+（费用2）Add 3(5) random Skills into your Draw Pile. They cost 0 this combat. Exhaust.
+
+103:Hand of Greed
+（费用2）Deal 20(25) damage. If this kills a non-minion enemy, gain 20(25) Gold.
+
+104:Magnetism
+（费用2(1)）At the start of each turn, add a random colorless card to your hand.
+
+105:Master Of Strategy
+（费用0）Draw 3(4) cards. Exhaust.
+
+106:Mayhem
+（费用2(1)）At the start of your turn, play the top card of your draw pile.
+
+107:Metamorphosis
+（费用2）Add 3(5) random Attacks into your Draw Pile. They cost 0 this combat. Exhaust.
+
+108:Panache
+（费用0）Every time you play 5 cards in a single turn, deal 10(14) damage to ALL enemies.
+
+109:Sadistic Nature
+（费用0）Whenever you apply a Debuff to an enemy, they take 3(4) damage.
+
+110:Secret Technique
+（费用0）Choose a Skill from your draw pile and place it into your hand. Exhaust. (Don't Exhaust)
+
+111:Secret Weapon
+（费用0）Choose an Attack from your draw pile and place it into your hand. Exhaust. (Don't Exhaust)
+
+112:The Bomb
+（费用2）At the end of 3 turns, deal 30(40) damage to ALL enemies.
+
+113:Thinking Ahead
+（费用0）Draw 2 cards. Place a card from your hand on top of your draw pile. Exhaust.
+(Don't Exhaust)
+
+
+114:Transmutation
+（费用X）Add X random (Upgraded) colorless cards into your hand. They cost 0 this turn. Exhaust.
+
+115:Violence
+（费用0）Place 3(4) random Attack cards from your draw pile into your hand. Exhaust.
+
+116:Ascender's Bane
+Unplayable.
+Cannot be removed from your deck.
+Ethereal.
+(Obtained from Ascension level 10 and higher at the start of the game.)
+
+117:Clumsy
+Unplayable.
+Ethereal.
+
+118:Decay
+Unplayable.
+At the end of your turn, take 2 damage.
+
+119:Doubt
+Unplayable.
+At the end of your turn, gain 1 Weak.
+
+120:Injury
+Unplayable.
+
+121:Necronomicurse
+Unplayable.
+There is no escape from this Curse.
+(Cannot be Exhausted or Removed from your deck.)
+(Obtained from event:Cursed Tome's Necronomicon reward)
+
+122:Normality
+Unplayable.
+You cannot play more than 3 cards this turn.
+
+123:Pain
+Unplayable.
+While in hand, lose 1 HP when other cards are played.
+
+124:Parasite
+Unplayable.
+If transformed or removed from your deck, lose 3 Max HP.
+
+125:Pride
+Innate.
+At the end of  your turn, put a copy of this card on top of your draw pile. Exhaust.
+(Obtained from the Grotesque Trophy Blight in Endless Mode.)
+
+126:Regret
+Unplayable.
+At the end of your turn, lose HP equal to the number of cards in your hand.
+
+127:Shame
+Unplayable.
+At the end of your turn, gain 1 Frail.
+
+128:Writhe
+Unplayable.
+Innate.
